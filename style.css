@@ -10,6 +10,12 @@
     color: white;
     list-style: none;
 }
+body
+{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
 .main
 {
     display: flex;
