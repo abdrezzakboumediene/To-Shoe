@@ -1,0 +1,31 @@
+
+span::selection
+{
+    background: #000030;
+}
+button::selection
+{
+    background: #00d1a7;
+}
+
+h3::selection
+{
+    background: #000030;
+}
+
+a::selection
+{
+    background: #00d1a7;
+}
+h1::selection
+{
+    background: #00d1a7;
+}
+h2::selection
+{
+    background: #00d1a7;
+}
+p::selection
+{
+    background: #000030;
+}
