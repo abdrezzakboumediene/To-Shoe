@@ -10,6 +10,10 @@
     color: white;
     list-style: none;
 }
+body
+{
+    overflow-x: hidden;
+}
 .main
 {
     display: flex;
