@@ -60,7 +60,7 @@ a
 {
     scale: 1.1;
     position: relative;
-    left: 16pc;
+    left: 8pc;
 }
 .main h2
 {
@@ -93,12 +93,12 @@ a
 {
     opacity: .7;
     margin-left: 4pc;
-    padding-right: 64pc;
+    margin-right: 26pc;
 }
 .main img
 {
     top: -16pc;
-    left: 28pc;
+    left: 35pc;
     margin-bottom: -12pc;
     position: relative;
     /* margin: -22pc 0pc -2pc 25pc; */
