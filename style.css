@@ -45,7 +45,7 @@ a
 .circles
 {
     display: flex;
-    margin-left: 18pc;
+    margin-left: 16pc;
 }
 #circle
 {
@@ -99,7 +99,7 @@ a
 .main img
 {
     top: -16pc;
-    left: 25pc;
+    left: 26pc;
     margin-bottom: -12pc;
     position: relative;
     /* margin: -22pc 0pc -2pc 25pc; */
